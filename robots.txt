@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://heboemon.github.io/sitemap.html.gz
+Sitemap: https://heboemon.github.io/app/sitemap.html.gz
+Sitemap: https://heboemon.github.io/assets/sitemap.html.gz
+Sitemap: https://heboemon.github.io/css/sitemap.html.gz
+Sitemap: https://heboemon.github.io/data/sitemap.html.gz
+Sitemap: https://heboemon.github.io/includes/sitemap.html.gz
+Sitemap: https://heboemon.github.io/item/sitemap.html.gz
+Sitemap: https://heboemon.github.io/src/sitemap.html.gz
